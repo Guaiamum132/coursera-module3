@@ -3,8 +3,6 @@ body {
 	color: #fff;
 	/*background-color: #2aad74;*/
 	background: url("../images/RiodeJaneiro.jpg");
-	background-attachment: fixed;
-	background-size: cover;
 	font-family: 'Balthazar', serif;
 }
 
